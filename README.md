@@ -43,4 +43,4 @@ The coordinates of the clusters' centroids calculated by our program are the fol
 |      5     | -73.96847815487313 |  40.77200165263602 |
 
 ### Visualization
-![Yellow-Trip-Data clusters](./output.png)
+![Yellow-Trip-Data clusters](./output/output.png)
